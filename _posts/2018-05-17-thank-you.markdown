@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "starburst"
+date:   2018-05-17 14:00:49 -0700
+categories: jekyll update
+author: Joe Kaestner
+---
+thank you for eating my starburst without asking
